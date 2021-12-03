@@ -1,0 +1,14 @@
+# GitFundamemtals
+
+Git is a version control system that allows us to track changes and commit them to history.
+
+Here is a growing collection of resources and helpful commands to know when working with git.
+
+## Git Commands
+- [git config](./Commands/Config.md)
+- [git init](./Commands/init.md)
+- [git add](./Commands/Add.md)
+-[git commit](./commands/Commit.md)
+- [git remote](./commands/Remote.md)
+- [git push](./commands/Push.md)
+-[git pull](./commands/Pull.md)
