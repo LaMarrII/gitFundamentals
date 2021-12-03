@@ -12,8 +12,8 @@ git init
 Once inside a git repository, you can start using command such as
 [status](./Status.md),
 [add](./Add.md),
-[commit](./Commit.md)
-[push](./Push.md)
+[commit](./Commit.md),
+[push](./Push.md),
 and more.
 
 Init will create the repository in the current directiory and will encapsulate all content, incluing other dircetories.

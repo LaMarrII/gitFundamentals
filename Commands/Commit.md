@@ -17,7 +17,7 @@ Then when viewing the history of git repository you can pinpoint where the regis
 
 ## Resources
 
-- [Git Commit Documentation](https://git-commit)
+- [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 
 ---
 
